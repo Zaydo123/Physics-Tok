@@ -4,3 +4,4 @@
 
 USERNAME = tiktokusername
 ```
+do a quick ```npm i```
